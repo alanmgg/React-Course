@@ -11,7 +11,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4 align="left">
+            <td rowspan=5 align="left">
             Hola mundo con React, creación de componentes y explicación del DOM utilizando hooks, como useState y useEffect.
             </td>
             <td rowspan=1 align="center">Gestor de paquetes</td>
@@ -24,6 +24,9 @@
         </tr>
         <tr>
             <td rowspan=1 align="center">React Hooks</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">NPM Scripts</td>
         </tr>
     </tbody>
 </table>
